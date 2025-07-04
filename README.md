@@ -34,6 +34,7 @@ Ce projet (que j'ai nommé Flora'sLibrary) est une application web complète de 
 │   ├── routes/                   # Routes API REST (auth, users, livres, emprunts, etc.)
 │   ├── index.js                  # Point d’entrée serveur
 │   ├── package.json              # Dépendances backend
+│   ├── schema-bibliotheque.sql   # Schéma SQL complet de la base
 │  
 │
 ├── bibliotheque-frontend/        # Frontend Next.js (React + Tailwind CSS)
@@ -45,10 +46,7 @@ Ce projet (que j'ai nommé Flora'sLibrary) est une application web complète de 
 │   └── hooks/
 │   └── lib/
 │
-├── docs/                         # Documentation technique, schéma SQL, diagrammes
-│   ├── schema-bibliotheque.sql   # Schéma SQL complet de la base
-│
-├── .env                          # Variables d’environnement backend (exemple fourni)
+
 ```
 
 ---
