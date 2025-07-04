@@ -57,8 +57,9 @@ Ce projet (que j'ai nommé Flora'sLibrary) est une application web complète de 
 
 - Node.js 18+ (pour développement local)
 - npm (inclus avec Node.js)
+- Nodemailer, cron
 - Docker & Docker Compose (pour déploiement tout-en-un)
-- MySQL 8+ (si utilisation hors Docker)
+- MySQL 8+
 
 ---
 
@@ -212,7 +213,7 @@ Le projet peut être déployé sur n’importe quel serveur compatible Docker (V
 
 - Frontend (Next.js) : déployable sur Vercel, Netlify, etc.
 - Backend (Express.js) : déployable sur Render, Railway, etc.
-- Base de données : MySQL 8+ (hébergée ou locale)
+- Base de données : MySQL 8+ (hébergée)
 
 ---
 
@@ -221,8 +222,4 @@ Le projet peut être déployé sur n’importe quel serveur compatible Docker (V
 - Flora NLEND [floranlend23@gmail.com]
 - Projet de fin : Intégration FRontend Backend
 
----
 
-## Licence
-
-MIT
