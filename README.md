@@ -1,4 +1,4 @@
-# Bibliothèque Universitaire – Projet Fullstack
+# Bibliothèque Flora'sLibrary
 
 ## Présentation
 
@@ -35,7 +35,7 @@ Ce projet (que j'ai nommé Flora'sLibrary) est une application web complète de 
 │   ├── index.js                  # Point d’entrée serveur
 │   ├── package.json              # Dépendances backend
 │   ├── schema-bibliotheque.sql   # Schéma SQL complet de la base
-│  
+│   ├── schémaBDR.md             # Schéma visuel SQL complet de la base
 │
 ├── bibliotheque-frontend/        # Frontend Next.js (React + Tailwind CSS)
 │   ├── app/                      # Pages et routes Next.js (profil, livres, favoris, etc.)
